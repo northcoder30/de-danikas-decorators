@@ -1,2 +1,2 @@
-def do_twice():
+def negate():
     pass
