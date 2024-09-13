@@ -1,2 +1,2 @@
-def negate():
-    pass
+def negate(func):
+    return not func()
